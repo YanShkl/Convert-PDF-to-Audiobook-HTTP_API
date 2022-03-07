@@ -3,6 +3,7 @@
 
 
 This is  a Python script that takes a PDF file and converts it into speech.
+
 The Program  was written using gtts(Google API), pdfplumber and time librariries.
 
 
